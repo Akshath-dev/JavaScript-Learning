@@ -50,3 +50,6 @@ let q = sum(b,c);
 
 console.log('added number is ', p)
 console.log('added number is ', q)
+
+
+// I am soo lazy I want to keep green 💚 for 365
