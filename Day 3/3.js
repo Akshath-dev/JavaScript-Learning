@@ -11,7 +11,3 @@ let word = 'good'
 if(text1.includes(word)){
     console.log(text1.replace(word, "BAD"))
 }
-
-
-
-// hello 
