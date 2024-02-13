@@ -16,12 +16,12 @@
 // console.log(a2)
 
 
-// reduce
+// // reduce
 
-let arr3 = [1,2,3,4,5]
+// let arr3 = [1,2,3,4,5]
 
-let a3 = arr3.reduce((h1,h2)=>{
-    return h1 + h2
-})
+// let a3 = arr3.reduce((h1,h2)=>{
+//     return h1 + h2
+// })
 
-console.log(a3)
+// console.log(a3)
